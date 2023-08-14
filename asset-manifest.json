@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pfrm/static/css/main.efe6c8d6.css",
-    "main.js": "/pfrm/static/js/main.8137ad6c.js",
-    "static/media/singer.jpg": "/pfrm/static/media/singer.88291c664da28974b271.jpg",
-    "static/media/purpleSinger.jpeg": "/pfrm/static/media/purpleSinger.5f093fe04adf08f47a9d.jpeg",
-    "index.html": "/pfrm/index.html",
-    "main.efe6c8d6.css.map": "/pfrm/static/css/main.efe6c8d6.css.map",
-    "main.8137ad6c.js.map": "/pfrm/static/js/main.8137ad6c.js.map"
+    "main.css": "/PFRM/static/css/main.efe6c8d6.css",
+    "main.js": "/PFRM/static/js/main.63048eda.js",
+    "static/media/singer.jpg": "/PFRM/static/media/singer.88291c664da28974b271.jpg",
+    "static/media/purpleSinger.jpeg": "/PFRM/static/media/purpleSinger.5f093fe04adf08f47a9d.jpeg",
+    "index.html": "/PFRM/index.html",
+    "main.efe6c8d6.css.map": "/PFRM/static/css/main.efe6c8d6.css.map",
+    "main.63048eda.js.map": "/PFRM/static/js/main.63048eda.js.map"
   },
   "entrypoints": [
     "static/css/main.efe6c8d6.css",
-    "static/js/main.8137ad6c.js"
+    "static/js/main.63048eda.js"
   ]
 }
