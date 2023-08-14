@@ -17,7 +17,7 @@ function App(){
           <Route path = '/locations' element= {<Locations/>}/>
           <Route path = '/contact' element = {<Contact/>} />
           <Route path = '/signup' element = {<SignUp/>}/>
-          <Route path = '*' element={<NoPage/>}/>
+          <Route path = '*' element={<Home/>}/>
         </Routes>
       </BrowserRouter>
     </div>
